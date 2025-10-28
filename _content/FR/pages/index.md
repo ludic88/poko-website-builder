@@ -7,12 +7,13 @@ localizationKey: 156832254a3d
 name: index
 eleventyNavigation:
   order: 0
+vars: {}
 ---
 Hello World!
 
 # Titre 1
 
-## Titre 2
+## Titre 2 {.orange-pastel}
 
 Lorem ipsum, **en gras**, _en italique_, lorem ipsum
 
