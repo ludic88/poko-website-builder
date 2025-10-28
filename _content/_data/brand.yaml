@@ -44,6 +44,8 @@ colors:
     value: '#990000'
   - name: Orange pastel
     value: '#ff8e24'
+  - name: black
+    value: '#080808'
 styleContexts:
   - name: main
     value: ctx
