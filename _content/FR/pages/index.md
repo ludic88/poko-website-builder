@@ -27,6 +27,6 @@ Lorem ipsum, **en gras**, _en italique_, lorem ipsum
 2. Avantage 2
 3. Avantage 3
 
-{% image src="/_images/inolud-2_horizontal-inverted-copy.webp", alt="logo inolud horizontal" %}
+{% image src="/_images/inolud-2_horizontal-inverted-copy.webp", alt="logo inolud horizontal", width="100" %}
 
 {% section type="grid-fluid", vars={"columns":null,"gap":""}, blocks=[{"value":"**Project Management**","type":"markdown"},{"value":"**Stratégie & Innovation**","type":"markdown"},{"value":"**Optimisation de Process**","type":"markdown"}], advanced={} %}
