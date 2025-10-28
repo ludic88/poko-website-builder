@@ -18,6 +18,7 @@ Lorem ipsum, **en gras**, _en italique_, lorem ipsum
 
 - tiret1
 - bullet point?
+- tiret 3
 
 1. Avantage 1
 2. Avantage 2
