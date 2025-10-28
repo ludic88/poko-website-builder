@@ -7,7 +7,6 @@ localizationKey: 156832254a3d
 name: index
 eleventyNavigation:
   order: 0
-vars: {}
 ---
 Hello World!
 
@@ -22,6 +21,7 @@ Lorem ipsum, **en gras**, _en italique_, lorem ipsum
 - tiret1
 - bullet point?
 - tiret 3
+- tiret 4
 
 1. Avantage 1
 2. Avantage 2
