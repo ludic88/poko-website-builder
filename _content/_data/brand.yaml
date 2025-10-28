@@ -5,13 +5,6 @@ widthsContexts:
     max: 80rem
     prose: 50rem
 fontStacksContexts:
-  - name: Rounded
-    body:
-      native: rounded-sans
-    heading:
-      native: rounded-sans
-    code:
-      native: monospace-code
   - name: Lexend
     body:
       native: system-ui
@@ -22,6 +15,13 @@ fontStacksContexts:
     code:
       native: monospace-code
       custom: Lexend
+  - name: Rounded
+    body:
+      native: rounded-sans
+    heading:
+      native: rounded-sans
+    code:
+      native: monospace-code
 customFontsImport:
   - name: Lexend
     source:
