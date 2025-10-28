@@ -23,4 +23,4 @@ Lorem ipsum, **en gras**, _en italique_, lorem ipsum
 2. Avantage 2
 3. Avantage 3
 
-{% section type="grid-fluid", vars={"columns":null,"gap":""}, blocks=[{"value":"**Project Management**","type":"markdown"},{"value":"**Stratégie & Innovation**","type":"markdown"},{"value":"**Optimisation de Process**","type":"markdown"}], advanced=null %}
+{% section type="grid-fluid", vars={"columns":null,"gap":""}, blocks=[{"value":"**Project Management**","type":"markdown"},{"value":"**Stratégie & Innovation**","type":"markdown"},{"value":"**Optimisation de Process**","type":"markdown"}], advanced={} %}
