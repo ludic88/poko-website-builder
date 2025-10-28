@@ -7,6 +7,9 @@ localizationKey: 9d075aee4083
 name: Offre
 eleventyNavigation:
   order: 2
+metadata:
+  title: Offre - ceci est mon meta titre
+  description: Hola, voici la meta description de la page Offre
 ---
 # Offres de services
 
