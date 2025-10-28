@@ -48,7 +48,7 @@ colors:
     value: '#080808'
 palettes:
   - name: Dark-orange-red
-    text: Orange pastel
+    text: Red darkish
     bg: black
     border: ''
     outline: ''
