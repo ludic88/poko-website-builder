@@ -1,5 +1,3 @@
-ctxCssImport:
-  filename: ctx.css
 widthsContexts:
   - name: main
     max: 80rem
