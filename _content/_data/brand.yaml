@@ -40,9 +40,9 @@ typeScales:
     minTypeScale: 1.2
     maxTypeScale: 1.25
 colors:
-  - name: Red darkish
+  - name: Red-darkish
     value: '#930606'
-  - name: Orange pastel
+  - name: Orange-pastel
     value: '#fb902d'
   - name: black
     value: '#080808'
