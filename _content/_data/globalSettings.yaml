@@ -1,0 +1,17 @@
+siteName: Inolud
+productionUrl: https://inolud.pages.dev/
+logo: /_images/inolud-2_icon-inverted-copy.webp
+languages:
+  - code: FR
+    name: Français
+    customUrlPrefix:
+      prefix: ''
+    status: published
+    isCmsDefault: false
+    isWebsiteDefault: false
+  - code: EN
+    name: Anglais
+    customUrlPrefix: null
+    status: published
+    isCmsDefault: false
+    isWebsiteDefault: false
