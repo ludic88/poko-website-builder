@@ -13,7 +13,7 @@ Hello World!
 
 # Titre 1
 
-## Titre 2 {.orange-pastel}
+## Titre 2 {.black}
 
 Lorem ipsum, **en gras**, _en italique_, lorem ipsum
 
