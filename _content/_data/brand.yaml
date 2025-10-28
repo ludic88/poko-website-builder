@@ -49,7 +49,7 @@ colors:
 palettes:
   - name: Dark-orange-red
     text: Red darkish
-    bg: black
+    bg: Orange pastel
     border: ''
     outline: ''
     text-decoration: ''
