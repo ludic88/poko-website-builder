@@ -12,6 +12,16 @@ fontStacksContexts:
       native: rounded-sans
     code:
       native: monospace-code
+  - name: Lexend
+    body:
+      native: system-ui
+      custom: Lexend
+    heading:
+      native: system-ui
+      custom: Lexend
+    code:
+      native: monospace-code
+      custom: Lexend
 customFontsImport:
   - name: Lexend
     source:
