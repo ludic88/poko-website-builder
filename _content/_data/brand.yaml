@@ -46,6 +46,24 @@ colors:
     value: '#ff8e24'
   - name: black
     value: '#080808'
+palettes:
+  - name: Dark-orange-red
+    text: Orange pastel
+    bg: black
+    border: ''
+    outline: ''
+    text-decoration: ''
+    text--marker: ''
+    text-emphasis: ''
+    text--selection: ''
+    bg--selection: ''
+    shadow: ''
+    caret: ''
+    column-rule: ''
+    fill: ''
+    stroke: ''
+    outline--focus: ''
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
