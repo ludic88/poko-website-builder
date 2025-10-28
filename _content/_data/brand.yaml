@@ -48,8 +48,8 @@ colors:
     value: '#080808'
 palettes:
   - name: Dark-orange-red
-    text: Red darkish
-    bg: Orange pastel
+    text: Orange-pastel
+    bg: black
     border: ''
     outline: ''
     text-decoration: ''
@@ -64,10 +64,10 @@ palettes:
     stroke: ''
     outline--focus: ''
     advanced:
-      text__a: Red darkish
+      text__a: Red-darkish
       bg__a: ''
-      text__a--hover: Orange pastel
-      bg__a--hover: ''
+      text__a--hover: Orange-pastel
+      bg__a--hover: Red-darkish
       text__button: ''
       bg__button: ''
       text__button--hover: ''
