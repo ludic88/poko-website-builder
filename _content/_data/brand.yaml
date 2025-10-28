@@ -12,6 +12,17 @@ fontStacksContexts:
       native: rounded-sans
     code:
       native: monospace-code
+customFontsImport:
+  - name: Lexend
+    source:
+      type: fontsource
+      name: Lexend
+      weights:
+        - '400'
+      styles:
+        - normal
+      subsets:
+        - latin
 typeScales:
   - name: main
     minFontSize: 18
